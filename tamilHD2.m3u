@@ -1,0 +1,35 @@
+#EXTM3U url-tvg="http://tmkbxqnk.ngtdt.com:80/xmltv.php?username=SPXYW63K&password=LBYBDNLT"
+#EXTINF:-1 tvg-id="kalaignartv.in" tvg-name="IN| KALAIGNAR TV HD" tvg-logo="https://lo1.in/ind/kalgt.png" group-title="Tamil",IN| KALAIGNAR TV HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/33527
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="IN| KTV FHD" tvg-logo="https://lo1.in/ind/ktv.png" group-title="Tamil",IN| KTV FHD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/89808
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="IN| STAR VIJAY FHD" tvg-logo="https://lo1.in/ind/svijay1.png" group-title="Tamil",IN| STAR VIJAY FHD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/33621
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="IN| SUN MUSIC FHD" tvg-logo="https://lo1.in/ind/sunms.png" group-title="Tamil",IN| SUN MUSIC FHD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/89810
+#EXTINF:-1 tvg-id="suntv.in" tvg-name="IN| SUN TV FHD" tvg-logo="https://lo1.in/ind/sunt.png" group-title="Tamil",IN| SUN TV FHD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/89811
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="IN| VIJAY SUPER HD" tvg-logo="https://lo1.in/ind/vijasp.png" group-title="Tamil",IN| VIJAY SUPER HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/132101
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="IN| ZEE TAMIL FHD" tvg-logo="https://lo1.in/ind/zetam.png" group-title="Tamil",IN| ZEE TAMIL FHD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/89812
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE THIRAI HD" tvg-logo="https://lo1.in/ind/zeth.png" group-title="Tamil",IN| ZEE THIRAI HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/33665
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO VELLITHIRAI HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="Tamil",MY| ASTRO VELLITHIRAI HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/2130
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="MY| COLORS HD" tvg-logo="https://lo1.in/MALAY/clrs.png" group-title="Tamil",MY| COLORS HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/151074
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="MY| COLORS TAMIL HD" tvg-logo="https://lo1.in/MALAY/astroclrta.png" group-title="Tamil",MY| COLORS TAMIL HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/151073
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="MY| STAR VIJAY HD" tvg-logo="https://lo1.in/MALAY/astrostrv.png" group-title="Tamil",MY| STAR VIJAY HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/34478
+#EXTINF:-1 tvg-id="sunlife.in" tvg-name="MY| SUN LIFE HD" tvg-logo="https://lo1.in/MALAY/sun.png" group-title="Tamil",MY| SUN LIFE HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/2144
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="MY| SUN MUSIC HD" tvg-logo="https://lo1.in/MALAY/sunmus.png" group-title="Tamil",MY| SUN MUSIC HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/34479
+#EXTINF:-1 tvg-id="sunnews.in" tvg-name="MY| SUN NEWS HD" tvg-logo="https://lo1.in/MALAY/sun.png" group-title="Tamil",MY| SUN NEWS HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/2143
+#EXTINF:-1 tvg-id="suntv.in" tvg-name="MY| SUN TV HD" tvg-logo="https://lo1.in/MALAY/sun.png" group-title="Tamil",MY| SUN TV HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/151072
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="MY| ZEE TAMIL HD" tvg-logo="https://lo1.in/MALAY/astrozt.png" group-title="Tamil",MY| ZEE TAMIL HD
+http://tmkbxqnk.ngtdt.com:80/SPXYW63K/LBYBDNLT/34491
